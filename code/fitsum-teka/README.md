@@ -17,3 +17,5 @@ This folder contains Fitsum Teka's Solidity course code for the group assignment
 - `intermediate/` - Address interactions, ether, modifiers, inheritance, events.
 - `projects/` - Larger course project work.
 
+---
+*Happy coding! 🚀*
